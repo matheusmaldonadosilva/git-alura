@@ -1,0 +1,9 @@
+$theme-colors: (
+    "primary": #f0f
+);
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+.container {
+    border: solid 1px red;
+}
